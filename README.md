@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1l_eGnBZD-hk8ZA46UzXf7ae0RnwGIA-A/view?usp=drivesdk)]" alt="AI ML Developer Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/shuvendusamal9048/shuvendusamal9048/main/ai_ml_banner.png"
+    height="280"
+    width="100%"/
+  />
 </p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shuvendu Samal</h1>
 <h3 align="center">Final-year B.Tech CSE | Aspiring AI/ML Engineer | Python • ML • DL • LLMs</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
